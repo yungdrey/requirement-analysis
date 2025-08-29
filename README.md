@@ -78,5 +78,5 @@ Acceptance criteria define the conditions that a feature must satisfy to be acce
 ---
 
 ## 📌 Conclusion
-This repository demonstrates the importance of Requirement Analysis in ensuring successful software projects.  
+This repository demonstrates the importance of Requirement Analysis in ensuring successful software projects. 
 By clearly defining requirements, modeling system interactions, and setting acceptance criteria, we lay a strong foundation for the **Booking Management System** and future scalable solutions.
