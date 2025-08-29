@@ -66,7 +66,8 @@ They help in understanding user needs, system scope, and boundaries.
 - **User (Customer)** – Searches rooms, books, pays, cancels bookings.  
 - **Admin** – Manages rooms and booking records.  
 
-![Booking System Use Case](./alx-booking-uc.png)
+![Booking System Use Case](<img width="401" height="471" alt="image" src="https://github.com/user-attachments/assets/a9143f17-4294-42d2-ab30-e33a45e11750" />
+)
 
 ---
 
